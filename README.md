@@ -8,7 +8,7 @@ Testte Çoktan seçmeli ve Doğru-Yanlış soruları yer almaktadır. Kullanıc�
 
 ### screenshot
 ________________
-![](https://raw.githubusercontent.com/tariksune/passwordGeneratorJavaGui/master/passwordGeneratorJavaGui/screenshot.png)
+![](https://raw.githubusercontent.com/tariksune/QandAJavaGui/master/QueandAns/screenshot.png)
 
 ### contact
 ________________
